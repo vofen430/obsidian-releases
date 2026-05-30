@@ -29965,5 +29965,12 @@
     "author": "Scott Tomaszewski",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Open a folder's associated Base by clicking it in the file explorer, like Folder Notes but for Bases.",
     "repo": "scotttomaszewski/obsidian-folder-bases"
+  },
+  {
+    "id": "chatgpt-math-clipboard",
+    "name": "ChatGPT Math Clipboard",
+    "author": "vofen",
+    "description": "Copies ChatGPT Web Viewer responses into Obsidian-friendly Markdown with strict KaTeX-to-LaTeX conversion.",
+    "repo": "vofen430/obsidian-chatgpt-math-clipboard"
   }
 ]

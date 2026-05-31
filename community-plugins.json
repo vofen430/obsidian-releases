@@ -30154,5 +30154,12 @@
     "author": "A.W. Alberts",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Export notes to professional PDFs via Typst: cover page, TOC, templates, callouts, 5 languages.",
     "repo": "tisgoud/Obsidian-Omd2Typst"
+  },
+  {
+    "id": "chatgpt-math-clipboard",
+    "name": "ChatGPT Math Clipboard",
+    "author": "vofen",
+    "description": "Copies ChatGPT Web Viewer responses into Obsidian-friendly Markdown with strict KaTeX-to-LaTeX conversion.",
+    "repo": "vofen430/obsidian-chatgpt-math-clipboard"
   }
 ]
